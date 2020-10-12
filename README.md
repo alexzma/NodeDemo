@@ -1,6 +1,6 @@
-#Setup
-Install npm on your computer
-Run the command "npm i" to install the libraries
-
-#Running
-Use the command "npm start" to run the application
+# Setup
+Install npm on your computer, then install libraries with the command
+	npm i
+# Running
+Run the application with the command
+	npm start
